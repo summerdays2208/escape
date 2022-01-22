@@ -1,7 +1,41 @@
 ## 팀 프로젝트
 
 ### 상세보기
-https://therapeutic-angora-fdf.notion.site/Escape-424c1ae2fca949fdb464b583c8035295
+# Escape
+
+담당 Skills & 사용 Libraries: BootStrap5, HTML/CSS, JS, Java, Oracle, Spring, jQuery
+진행 기간: 2021/07/26 → 2021/08/31
+팀 구성: PM 1명, PL 1명(강정희), Backend 3명, Frontend 1명
+한 줄 소개: 전국에 있는 방탈출 카페에 대한 정보를 한번에 볼 수 있는 웹페이지
+방탈출 카페 정보, 테마를 검색한 후 예약 서비스 제공
+
+## 🎥영상
+
+[https://www.youtube.com/watch?v=0hTEGPW7D-0&ab_channel=MinYongYoon](https://www.youtube.com/watch?v=0hTEGPW7D-0&ab_channel=MinYongYoon)
+
+[📖 상세 내용](https://www.notion.so/f3749025e4414b43888e21d2bd58c1d5)
+
+## 🛠️ 사용 기술 및 라이브러리
+
+- STS툴을 이용한 **Spring Framework**
+- **Java, JavaScript**를 기반으로 프로그래밍을 하고 jsp파일로 html, jstl 코딩
+- **jQuery, Bootstrap5**을 활용하여 스크립트 코딩 및 웹 페이지 스타일 적용
+- WAS로 **Tomcat**서버 사용
+- **Oracle DB 11 express edition**을 사용한 DB관리
+
+## 🖥담당한 기능
+
+- **Spring Framework**를 이용한  QnA게시판 구현
+- **Ajax**로 아이디 중복검사 구현
+- 게시판 **조회수** 증가 기능 구현
+- **HTML, CSS, Bootstrap5**로 QnA게시판 스타일 적용
+- **jQuery**를 이용한 말머리 검색 기능 구현
+- 데이터 수집 및 담당 **DB 관리**
+
+## 💡 프로젝트 후기
+
+- 팀 프로젝트에서 **커뮤니케이션**의 중요성 확인
+- 스터디 후 해당 내용 기능 **구현**을 통한 능력 향상
 
 
 ### 1. 프로젝트 명
