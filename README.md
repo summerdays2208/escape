@@ -1,7 +1,7 @@
 ## 팀 프로젝트
 
 ### 상세보기
-[📖 상세 내용](https://www.notion.so/Escape-424c1ae2fca949fdb464b583c8035295)
+[📖 상세 내용](https://therapeutic-angora-fdf.notion.site/Escape-424c1ae2fca949fdb464b583c8035295)
 
 ## 🛠️ 사용 기술 및 라이브러리
 
