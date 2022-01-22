@@ -1,6 +1,7 @@
 ## 팀 프로젝트
 
-### 영상
+### 상세보기
+https://therapeutic-angora-fdf.notion.site/Escape-424c1ae2fca949fdb464b583c8035295
 
 
 ### 1. 프로젝트 명
