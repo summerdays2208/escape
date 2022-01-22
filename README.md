@@ -1,19 +1,7 @@
 ## 팀 프로젝트
 
 ### 상세보기
-# Escape
-
-담당 Skills & 사용 Libraries: BootStrap5, HTML/CSS, JS, Java, Oracle, Spring, jQuery
-진행 기간: 2021/07/26 → 2021/08/31
-팀 구성: PM 1명, PL 1명(강정희), Backend 3명, Frontend 1명
-한 줄 소개: 전국에 있는 방탈출 카페에 대한 정보를 한번에 볼 수 있는 웹페이지
-방탈출 카페 정보, 테마를 검색한 후 예약 서비스 제공
-
-## 🎥영상
-
-[https://www.youtube.com/watch?v=0hTEGPW7D-0&ab_channel=MinYongYoon](https://www.youtube.com/watch?v=0hTEGPW7D-0&ab_channel=MinYongYoon)
-
-[📖 상세 내용](https://www.notion.so/f3749025e4414b43888e21d2bd58c1d5)
+[📖 상세 내용](https://www.notion.so/Escape-424c1ae2fca949fdb464b583c8035295)
 
 ## 🛠️ 사용 기술 및 라이브러리
 
